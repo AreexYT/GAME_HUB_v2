@@ -426,7 +426,7 @@ function UILibrary.Load(GUITitle)
 			
 			local LabelForeground = RoundBox(5)
 			LabelForeground.Name = "LabelForeground"
-			LabelForeground.ImageColor3 = Color3.fromRGB(45,45,45)
+			LabelForeground.ImageColor3 = Color3.fromRGB(145,0,145)
 			LabelForeground.Size = UDim2.new(1,0,1,0)
 			LabelForeground.Parent = LabelContainer
 			
