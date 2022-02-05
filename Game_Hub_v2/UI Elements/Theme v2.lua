@@ -767,7 +767,7 @@ do
 
 			title.BackgroundTransparency = 1
 			title.Size = UDim2.new(1, 0, 1, 0)
-			title.Position = fromOffset(10, 12)
+			title.Position = fromOffset(10, 0)
 			title.ZIndex = 3
 			title.Font = Enum.Font.Gotham
 			title.Text = name
