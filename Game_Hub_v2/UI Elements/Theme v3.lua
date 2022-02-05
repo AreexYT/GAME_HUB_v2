@@ -182,7 +182,7 @@ function UILibrary.Load(GUITitle)
 	ContainerFrame = Frame()
 	ContainerFrame.Name = "ContainerFrame"
 	ContainerFrame.Size = UDim2.new(0,500,0,300)
-	ContainerFrame.Position = UDim2.new(0.5,0,0,-150)
+	ContainerFrame.Position = UDim2.new(0.5,0,0.095,-150)
 	ContainerFrame.BackgroundTransparency = 1
 	ContainerFrame.Parent = NewInstance
 	
